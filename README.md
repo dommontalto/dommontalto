@@ -1,5 +1,10 @@
 ## Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 
+👨🏼‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>📫 How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
+
+
+# 💻 iOS Tech Stack:
+
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white)
