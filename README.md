@@ -1,8 +1,8 @@
-<img src="banner3.png" alt="GitHub Banner" width="100%" />
+<img src="banners/banner.png" alt="GitHub Banner" width="100%" />
 
 # Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 
-👨🏼‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>📫 How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
+👨🏼‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>✉️ How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
 
 
 # 💻 iOS Tech Stack:
@@ -28,18 +28,18 @@
 
 <br><br>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="300">
-      <img src="1.gif" alt="Hx App Demo" width="300" />
+      <img src="gif/1.gif" alt="Hx App Demo" width="300" />
     </td>
     <td>
-      <h1 align="center">Hx</h2>
+      <h1 align="center">Hx</h1>
       <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — control lighting, heating, media, and more from a sleek, unified app interface.</p>
       <p>Designed with SwiftUI and Firebase, it's built for elegance, speed, and total control — whether you're on land or at sea.</p>
       <p align="center">
         <a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162" target="_blank">
-          <img src="app-store.png" alt="Download on the App Store" width="160" />
+          <img src="misc/app-store.png" alt="Download on the App Store" width="160" />
         </a>
       </p>
     </td>
