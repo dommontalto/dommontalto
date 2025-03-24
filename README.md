@@ -28,12 +28,12 @@
 
 <h2 align="center">Hx</h2>
 
-<table cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="300" valign="top">
       <img src="1.gif" alt="Hx App Demo" width="300" />
     </td>
-    <td>
+    <td align="left" valign="top">
       <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — control lighting, heating, media, and more from a sleek, unified app interface.</p>
       <p>Designed with SwiftUI and Firebase, it's built for elegance, speed, and total control — whether you're on land or at sea.</p>
       <p align="center">
