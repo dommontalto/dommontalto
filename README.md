@@ -1,12 +1,12 @@
 ## Hi there 👋
-
+<img src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/snake.svg" alt="Snake animation" />
 <!--
 **dommontalto/dommontalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 ###
-<img src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/snake.svg" alt="Snake animation" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
