@@ -26,7 +26,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
 </picture>
 
-<br>
+<br><br>
 
 <table>
   <tr>
