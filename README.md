@@ -2,14 +2,14 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge)
+![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core%20Data-8e44ad?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 <picture>
