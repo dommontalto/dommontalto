@@ -31,7 +31,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="300">
-      <img src="gif/1.gif" alt="Hx App Demo" width="300" />
+      <img src="gifs/1.gif" alt="Hx App Demo" width="300" />
     </td>
     <td>
       <h1 align="center">Hx</h1>
