@@ -1,3 +1,5 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
 ## Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 
 👨🏼‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>📫 How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
