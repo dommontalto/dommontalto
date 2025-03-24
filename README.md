@@ -28,7 +28,7 @@
 
 <br><br>
 
-<table border="0">
+<table>
   <tr>
     <td align="center" width="300">
       <img src="1.gif" alt="Hx App Demo" width="300" />
