@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner3.png" alt="GitHub Banner" width="100%" />
 
 # Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 
