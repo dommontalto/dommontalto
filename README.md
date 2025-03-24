@@ -9,7 +9,8 @@
 ![Core Data](https://img.shields.io/badge/Core%20Data-8e44ad?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 <picture>
