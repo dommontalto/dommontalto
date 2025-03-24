@@ -1,11 +1,11 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-## Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
+# Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 
 👨🏼‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>📫 How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
 
 
-# 💻 iOS Tech Stack:
+## 💻 iOS Tech Stack:
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white)
@@ -34,7 +34,7 @@
       <img src="1.gif" alt="Hx App Demo" width="300" />
     </td>
     <td>
-      <h2 align="center">Hx</h2>
+      ## Hx
       <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — control lighting, heating, media, and more from a sleek, unified app interface.</p>
       <p>Designed with SwiftUI and Firebase, it's built for elegance, speed, and total control — whether you're on land or at sea.</p>
       <p align="center">
