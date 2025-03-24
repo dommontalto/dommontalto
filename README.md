@@ -28,10 +28,14 @@
 
 <h2 align="center">Hx</h2>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="1.gif" alt="Helix App Demo" width="300" style="border-radius: 12px;" />
-  <div>
-    <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — manage lighting, heating, media, and more from a sleek, unified interface. Built with SwiftUI and Firebase, designed for elegance and performance at sea or on land.</p>
-    <p><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162" target="_blank">🔗 Open in App Store</a></p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="1.gif" alt="Helix App Demo" width="300" style="border-radius: 12px;" />
+    </td>
+    <td>
+      <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — manage lighting, heating, media, and more from a sleek, unified interface. Built with SwiftUI and Firebase, designed for elegance and performance at sea or on land.</p>
+      <p><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162" target="_blank">🔗 Open in App Store</a></p>
+    </td>
+  </tr>
+</table>
