@@ -43,7 +43,7 @@
       </td>
       <td valign="center">
          <h1 align="center">Nomadify</h1>
-         <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="160" /></a></p>
+         <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Nomadify is a digital companion for remote workers with group chat, visa info, currency conversion, and health advice.</p>
          <p>Built using async/await with full unit test coverage.</p>
          <p>Available in both light and dark mode.</p>
@@ -69,7 +69,7 @@
    <tr>
       <td valign="center">
          <h1 align="center">Hx</h1>
-         <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="160" /></a></p>
+         <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system for luxury homes and yachts.</p>
          <p>Built with UIKit and MVVM architecture, integrated with Atlassian.</p>
          <p>Available on iPad, light and dark mode supported.</p>
@@ -102,7 +102,7 @@
       </td>
       <td valign="center">
          <h1 align="center">Impero</h1>
-         <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="160" /></a></p>
+         <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Impero is classroom software that lets teachers open and manage websites on student devices.</p>
          <p>Built with UIKit and MVC, integrated with Azure and CI/CD pipelines.</p>
          <p>Available for iPad.</p>
