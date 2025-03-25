@@ -41,7 +41,7 @@
     <td align="center" width="300" valign="top">
       <img src="gifs/1.gif" alt="Nomadify Demo" width="300" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Nomadify</h1>
       <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="160" /></a></p>
       <p>Nomadify is a digital companion for remote workers with group chat, visa info, currency conversion, and health advice.</p>
@@ -57,7 +57,6 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/SPM-FA7343?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge" />
         <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
       </p>
     </td>
@@ -68,7 +67,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Hx</h1>
       <p align="center">Hosted privately</p>
       <p>Hx is a smart control system for luxury homes and yachts.</p>
@@ -82,11 +81,11 @@
         <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge" />
         <img src="https://img.shields.io/badge/RxSwift-4A90E2?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
         <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
         <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
         <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
       </p>
     </td>
     <td align="center" width="300" valign="top">
@@ -102,7 +101,7 @@
     <td align="center" width="300" valign="top">
       <img src="gifs/1.gif" alt="Impero Demo" width="300" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Impero</h1>
       <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="160" /></a></p>
       <p>Impero is classroom software that lets teachers open and manage websites on student devices.</p>
@@ -114,7 +113,7 @@
         <img src="https://img.shields.io/badge/MVC-2D9BF0?style=for-the-badge" />
         <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badg&logo=azure-devops&logoColor=whitee" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
         <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
@@ -139,7 +138,7 @@
         <img src="https://img.shields.io/badge/Safari%20Extension-6D6D6D?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Broadcast%20Extension-34495E?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=azure-devops&logoColor=white" />
         <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
       </p>
     </td>
