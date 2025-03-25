@@ -39,7 +39,7 @@
     <td align="center" width="300">
       <img src="gifs/1.gif" alt="Hx App Demo" width="300" />
     </td>
-    <td>
+    <td width="500">
       <h1 align="center">Hx</h1>
       <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — control lighting, heating, media, and more from a sleek, unified app interface.</p>
       <p>Designed with SwiftUI and Firebase, it's built for elegance, speed, and total control — whether you're on land or at sea.</p>
@@ -59,17 +59,11 @@
         </a>
       </p>
     </td>
-  </tr>
-</table>
 
-<br><br>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
     <td align="center" width="300">
       <img src="gifs/1.gif" alt="Hx App Demo" width="300" />
     </td>
-    <td>
+    <td width="500">
       <h1 align="center">Hx</h1>
       <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — control lighting, heating, media, and more from a sleek, unified app interface.</p>
       <p>Designed with SwiftUI and Firebase, it's built for elegance, speed, and total control — whether you're on land or at sea.</p>
