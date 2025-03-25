@@ -16,6 +16,8 @@
 ![Combine](https://img.shields.io/badge/Combine-1E90FF?style=for-the-badge&logo=swift&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-4A90E2?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Caching](https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white)
+![Safari Extension](https://img.shields.io/badge/Safari%20Extension-00BFFF?style=for-the-badge&logo=xcode&logoColor=white)
+![Broadcast Extension](https://img.shields.io/badge/Broadcast%20Extension-FF4136?style=for-the-badge&logo=xcode&logoColor=white)
 ![XCTests](https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white)
 ![SPM](https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
@@ -133,11 +135,11 @@
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/Safari%20Extension-6D6D6D?style=for-the-badge" />
-            <img src="https://img.shields.io/badge/Broadcast%20Extension-34495E?style=for-the-badge" />
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-            <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+            <img src="https://img.shields.io/badge/Safari%20Extension-00BFFF?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/Broadcast%20Extension-FF4136?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
          </p>
       </td>
       <td align="center" width="300" valign="top">
