@@ -69,7 +69,7 @@
   <tr>
     <td valign="center">
       <h1 align="center">Hx</h1>
-      <p align="center">Hosted privately</p>
+      <p align="center">Hosted privately.</p>
       <p>Hx is a smart control system for luxury homes and yachts.</p>
       <p>Built with UIKit and MVVM architecture, integrated with Atlassian.</p>
       <p>Available on iPad, light and dark mode supported.</p>
@@ -111,12 +111,12 @@
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge" />
         <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge" />
         <img src="https://img.shields.io/badge/MVC-2D9BF0?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
         <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badg&logo=azure-devops&logoColor=whitee" />
+        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=azure-devops&logoColor=white" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-        <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -138,7 +138,7 @@
         <img src="https://img.shields.io/badge/Safari%20Extension-6D6D6D?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Broadcast%20Extension-34495E?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=azure-devops&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
         <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
       </p>
     </td>
