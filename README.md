@@ -23,7 +23,7 @@
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white) 
 ![Combine](https://img.shields.io/badge/Combine-1E90FF?style=for-the-badge&logo=swift&logoColor=white)
-![RxSwift](https://img.shilds.io/badge/RxSwift-4A90E2?style=for-the-badge&logo=reactivex&logoColor=white) 
+![RxSwift](https://img.shilds.io/badge/RxSwift-4A90E2?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Caching](https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white) 
 
 <picture>
