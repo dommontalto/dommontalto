@@ -38,7 +38,7 @@
     <td align="center" width="300" valign="top">
       <img src="gifs/1.gif" alt="Nomadify Demo" width="300" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Nomadify</h1>
       <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397">View on App Store</a></p>
       <p>Nomadify is a digital companion for remote workers with group chat, visa info, currency conversion, and health advice.</p>
@@ -59,7 +59,7 @@
   </tr>
 
   <tr>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Hx</h1>
       <p align="center">Hosted privately</p>
       <p>Hx is a smart control system for luxury homes and yachts.</p>
@@ -86,7 +86,7 @@
     <td align="center" width="300" valign="top">
       <img src="gifs/1.gif" alt="Impero Demo" width="300" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">Impero</h1>
       <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406">View on App Store</a></p>
       <p>Impero is classroom software that lets teachers open and manage websites on student devices.</p>
@@ -105,7 +105,7 @@
   </tr>
 
   <tr>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">StudentKeeper</h1>
       <p align="center">Hosted privately</p>
       <p>StudentKeeper is a Safari extension app that allows screen sharing and activity monitoring.</p>
