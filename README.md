@@ -60,10 +60,6 @@
       </p>
     </td>
   </tr>
-    <tr>
-    <td align="center" width="300">
-      <img src="gifs/1.gif" alt="Hx App Demo" width="300" />
-    </td>
     <td>
       <h1 align="center">Hx</h1>
        <p align="center">
@@ -85,4 +81,8 @@
       </p>
     </td>
   </tr>
+      <tr>
+    <td align="center" width="300">
+      <img src="gifs/1.gif" alt="Hx App Demo" width="300" />
+    </td>
 </table>
