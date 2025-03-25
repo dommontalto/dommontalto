@@ -49,13 +49,13 @@
       <p>Available in both light and dark mode.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/SwiftUI-005BBB?style=for-the-badge&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/MVC-2D9BF0?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Async/Await-008080?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/SPM-FA7343?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
+        <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
         <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
       </p>
@@ -126,7 +126,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top">
+    <td valign="center">
       <h1 align="center">StudentKeeper</h1>
       <p align="center">Hosted privately</p>
       <p>StudentKeeper is a Safari extension app that allows screen sharing and activity monitoring.</p>
