@@ -60,7 +60,8 @@
       </p>
     </td>
   </tr>
-    <td>
+    <tr>
+
       <h1 align="center">Hx</h1>
        <p align="center">
         <a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162" target="_blank">
@@ -80,9 +81,9 @@
         <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" />
       </p>
     </td>
-  </tr>
-      <tr>
-    <td align="center" width="300">
+        <td align="center" width="300">
       <img src="gifs/1.gif" alt="Hx App Demo" width="300" />
     </td>
+    <td>
+  </tr>
 </table>
