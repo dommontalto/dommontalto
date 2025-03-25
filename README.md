@@ -36,7 +36,7 @@
 
   <tr>
     <td align="center" width="300" valign="top">
-      <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
+      <img src="gifs/1.gif" alt="Nomadify Demo" width="300" />
     </td>
     <td valign="top">
       <h1 align="center">Nomadify</h1>
@@ -63,7 +63,7 @@
       <h1 align="center">Hx</h1>
       <p align="center">Hosted privately</p>
       <p>Hx is a smart control system for luxury homes and yachts.</p>
-      <p>Built with UIKit for total device control on land or sea.</p>
+      <p>Built with UIKit and MVVM architecture, integrated with Atlassian.</p>
       <p>Available on iPad, light and dark mode supported.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -78,20 +78,20 @@
       </p>
     </td>
     <td align="center" width="300" valign="top">
-      <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
+      <img src="gifs/1.gif" alt="Hx Demo" width="300" />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="300" valign="top">
-      <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
+      <img src="gifs/1.gif" alt="Impero Demo" width="300" />
     </td>
     <td valign="top">
       <h1 align="center">Impero</h1>
       <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406">View on App Store</a></p>
       <p>Impero is classroom software that lets teachers open and manage websites on student devices.</p>
       <p>Built with UIKit and MVC, integrated with Azure and CI/CD pipelines.</p>
-      <p>Available on iPad only.</p>
+      <p>Available on iPad.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge" />
         <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge" />
@@ -116,12 +116,10 @@
         <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Safari%20Extension-6D6D6D?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Broadcast%20Extension-34495E?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/iPad%20Support-008080?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Light/Dark%20Mode-000000?style=for-the-badge&logoColor=white" />
       </p>
     </td>
     <td align="center" width="300" valign="top">
-      <img src="gifs/studentkeeper.gif" alt="StudentKeeper Demo" width="300" />
+      <img src="gifs/1.gif" alt="StudentKeeper Demo" width="300" />
     </td>
   </tr>
 
