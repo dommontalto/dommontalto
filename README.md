@@ -42,7 +42,7 @@
     <td>
       <h1 align="center">Hx</h1>
       
-    <p>
+    <p align="center">
         <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
         <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="UIKit" />
         <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" alt="MVVM" />
