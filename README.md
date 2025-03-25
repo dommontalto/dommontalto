@@ -43,6 +43,16 @@
       <h1 align="center">Hx</h1>
       <p><strong>Hx</strong> is a smart control system for luxury homes and yachts — control lighting, heating, media, and more from a sleek, unified app interface.</p>
       <p>Designed with SwiftUI and Firebase, it's built for elegance, speed, and total control — whether you're on land or at sea.</p>
+      <p>
+        ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+        ![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+        ![MVVM](https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white)
+        ![SOLID](https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white)
+        ![RxSwift](https://img.shields.io/badge/RxSwift-4A90E2?style=for-the-badge&logo=reactivex&logoColor=white)
+        ![Caching](https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white)
+        ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
+        ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+      </p>
       <p align="center">
         <a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162" target="_blank">
           <img src="misc/app-store.png" alt="Download on the App Store" width="160" />
