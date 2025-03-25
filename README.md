@@ -69,7 +69,7 @@
    <tr>
       <td valign="center">
          <h1 align="center">Hx</h1>
-         <p align="center">Hosted privately.</p>
+         <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="160" /></a></p>
          <p>Hx is a smart control system for luxury homes and yachts.</p>
          <p>Built with UIKit and MVVM architecture, integrated with Atlassian.</p>
          <p>Available on iPad, light and dark mode supported.</p>
@@ -115,7 +115,6 @@
             <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
             <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
             <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-            <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
          </p>
       </td>
    </tr>
@@ -127,10 +126,9 @@
    <tr>
       <td valign="center">
          <h1 align="center">StudentKeeper</h1>
-         <p align="center">Hosted privately</p>
          <p>StudentKeeper is a Safari extension app that allows screen sharing and activity monitoring.</p>
          <p>Uses broadcast and Safari extensions to stream app usage to a teacher dashboard.</p>
-         <p>Supports iPad, light and dark mode.</p>
+         <p>Supports iPad, light and dark mode. Hosted Privately.</p>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
