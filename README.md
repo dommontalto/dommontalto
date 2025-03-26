@@ -88,7 +88,7 @@
          </p>
       </td>
       <td align="center" width="300" valign="top">
-         <img src="gifs/1.gif" alt="Hx Demo" width="300" />
+         <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
       </td>
    </tr>
 </table>
