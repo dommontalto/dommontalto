@@ -39,7 +39,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td align="center" width="300" valign="top">
-         <img src="gifs/nomadify-.gif" alt="Nomadify Demo" width="300" />
+         <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
       </td>
       <td valign="center">
          <h1 align="center">Nomadify</h1>
