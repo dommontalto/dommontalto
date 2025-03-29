@@ -39,7 +39,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td align="center" width="300" valign="top">
-         <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
+         <img src="gifs/nomadifyGif.gif" alt="Nomadify Demo" width="300" />
       </td>
       <td valign="center">
          <h1 align="center">Nomadify</h1>
@@ -88,7 +88,7 @@
          </p>
       </td>
       <td align="center" width="300" valign="top">
-         <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
+         <img src="gifs/hxGif.gif" alt="Hx Demo" width="300" />
       </td>
    </tr>
 </table>
@@ -98,7 +98,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td align="center" width="300" valign="top">
-         <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
+         <img src="gifs/imperoGif.gif" alt="Impero Demo" width="300" />
       </td>
       <td valign="center">
          <h1 align="center">Impero</h1>
@@ -140,7 +140,7 @@
          </p>
       </td>
       <td align="center" width="300" valign="top">
-         <img src="gifs/studentkeeper.gif" alt="StudentKeeper Demo" width="300" />
+         <img src="gifs/studentkeeperGif.gif" alt="StudentKeeper Demo" width="300" />
       </td>
    </tr>
 </table>
