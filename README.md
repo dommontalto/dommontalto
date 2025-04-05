@@ -124,6 +124,7 @@
             <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+            <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
             <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
             <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
             <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
