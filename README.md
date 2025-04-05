@@ -119,10 +119,10 @@
          <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
          <ul>
-            <li>Built using UIKit with an MVC architecture, and full unit test coverage..</li>
+            <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
             <li>CI/CD is handled through Azure Pipelines for smooth deployments and testing.</li>
             <li>Manages dependencies with CocoaPods.</li>
-            <li>Runs on iPad with a simple, classroom-friendly interface.</li>
+            <li>Runs on iPad with a simple, classroom friendly interface.</li>
          </ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -144,9 +144,13 @@
    <tr>
       <td valign="center">
          <h1 align="center">StudentKeeper</h1>
-         <p>StudentKeeper is a Safari extension app that allows screen sharing and activity monitoring.</p>
-         <p>Uses broadcast and Safari extensions to stream app usage to a teacher dashboard.</p>
-         <p>Supports iPad, light and dark mode. Hosted Privately.</p>
+         <p>StudentKeeper is a Safari extension app that enables screen sharing and activity monitoring in classroom environments.</p>
+         <ul>
+            <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
+            <li>CI/CD is handled through Azure Pipelines for smooth deployments and testing.</li>
+            <<li>Uses a Safari extension to let teachers remotely open or lock websites, and a Broadcast extension powered by VisionKit to OCR and stream on-screen content from any app.</li>
+            <li>Runs on iPad with a simple, classroom friendly interface.</li>
+         </ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
