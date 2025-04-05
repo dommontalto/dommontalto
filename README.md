@@ -1,8 +1,6 @@
 <img src="banners/banner.jpg" alt="GitHub Banner" width="100%" />
-
 # Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 👨🏽‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>✉️ How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
-
 # 💻 iOS Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white)
@@ -31,15 +29,12 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
    <img alt="github-snake" src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
 </picture>
-
 <br><br>
-
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td align="center" width="300" valign="top">
@@ -48,35 +43,33 @@
       <td valign="center">
          <h1 align="center">Nomadify</h1>
          <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
-<p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
-<ul>
- <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>
-  <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>
-  <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>
-  <li>Fully supports both light and dark mode.</li>
-</ul>
-<p>
-   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-   <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
-   <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
-   <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
-   <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />
-   <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
-   <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />
-   <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
-   <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
-   <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
-   <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />
-   <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
-   <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+         <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
+         <ul>
+            <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>
+            <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>
+            <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>
+            <li>Fully supports both light and dark mode.</li>
+         </ul>
+         <p>
+            <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+         </p>
       </td>
    </tr>
 </table>
-
 <br><br>
-
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
@@ -88,7 +81,7 @@
             <li>Uses CocoaPods for dependency management and supports CI/CD pipelines.</li>
             <li>Integrated with Atlassian tools for team collaboration and issue tracking.</li>
             <li>Fully supports both light and dark mode, and is optimised for iPad.</li>
-</ul>
+         </ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
@@ -106,9 +99,7 @@
       </td>
    </tr>
 </table>
-
 <br><br>
-
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td align="center" width="300" valign="top">
@@ -137,9 +128,7 @@
       </td>
    </tr>
 </table>
-
 <br><br>
-
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
@@ -154,6 +143,8 @@
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/VisionKit-8E44AD?style=for-the-badge&logo=xcode&logoColor=white />
             <img src="https://img.shields.io/badge/Safari%20Extension-00BFFF?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/Broadcast%20Extension-FF4136?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white />
