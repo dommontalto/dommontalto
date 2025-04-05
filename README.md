@@ -48,12 +48,11 @@
       <td valign="center">
          <h1 align="center">Nomadify</h1>
          <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
-<p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, and health advice.</p>
+<p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
 <ul>
-  <li>Built with async/await and tested to keep things running smoothly.</li>
-  <li>MapKit helps users find coworking and coliving spaces nearby.</li>
-  <li>Profile pictures are compressed on upload, and caching keeps the app lightweight and fast.</li>
-  <li>Firebase powers real-time chat, auth, and backend services.</li>
+ <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>
+  <li>Firebase powers group chat, authentication, storage, and backend services.</li>
+  <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>
   <li>Fully supports both light and dark mode.</li>
 </ul>
 <p>
@@ -83,17 +82,19 @@
       <td valign="center">
          <h1 align="center">Hx</h1>
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
-         <p>Hx is a smart control system for luxury homes and yachts.</p>
-         <p>Built with UIKit and MVVM architecture, integrated with Atlassian.</p>
-         <p>Available on iPad, light and dark mode supported.</p>
+         <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
+         <ul>
+            <li>Built with UIKit, MVVM, RxSwift and full unit test coverage.</li>
+            <li>Uses CocoaPods for dependency management and supports CI/CD pipelines.</li>
+            <li>Integrated with Atlassian tools for team collaboration and issue tracking.</li>
+            <li>Fully supports both light and dark mode, and is optimised for iPad.</li>
+</ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
             <img src="https://img.shields.io/badge/RxSwift-4A90E2?style=for-the-badge&logo=reactivex&logoColor=white" />
-            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
             <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
             <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
