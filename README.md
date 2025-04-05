@@ -144,7 +144,7 @@
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/VisionKit-8E44AD?style=for-the-badge&logo=xcode&logoColor=white />
+            <img src="https://img.shields.io/badge/VisionKit-8E44AD?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/Safari%20Extension-00BFFF?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/Broadcast%20Extension-FF4136?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
