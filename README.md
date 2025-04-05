@@ -141,7 +141,7 @@
             <li>Built with UIKit using an MVC architecture and covered by unit tests.</li>
             <li>CI/CD handled through Azure Pipelines for smooth testing and releases.</li>
             <li>Broadcast extension uses VisionKit to pick up text and stream the screen in real time.</li>
-            <li>Runs on iPad with a clean, student friendly interface.</li>
+            <li>Runs on iPad with a simple, classroom friendly interface. App available privately.</li>
          </ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
