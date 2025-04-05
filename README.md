@@ -48,21 +48,31 @@
       <td valign="center">
          <h1 align="center">Nomadify</h1>
          <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
-         <p>Nomadify is a digital companion for remote workers with group chat, visa info, currency conversion, and health advice.</p>
-         <p>Built using async/await with full unit test coverage.</p>
-         <p>Available in both light and dark mode.</p>
-         <p>
-            <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
-            <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
-            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
-            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-         </p>
+<p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, and health advice.</p>
+<ul>
+  <li>Built with async/await and tested to keep things running smoothly.</li>
+  <li>MapKit helps users find coworking and coliving spaces nearby.</li>
+  <li>Profile pictures are compressed on upload to keep things fast and lightweight.</li>
+  <li>Uses OSLog and Firebase for logging, crash reporting, and backend support.</li>
+  <li>Fully supports both light and dark mode.</li>
+</ul>
+<p>
+   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />
+   <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+   <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
+   <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
+   <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />
+   <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
+   <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
+   <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
       </td>
    </tr>
 </table>
