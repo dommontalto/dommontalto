@@ -1,6 +1,8 @@
 <img src="banners/banner.jpg" alt="GitHub Banner" width="100%" />
+
 # Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
 👨🏽‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>✉️ How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
+
 # 💻 iOS Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white)
@@ -29,6 +31,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
