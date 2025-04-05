@@ -84,7 +84,7 @@
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
          <ul>
-            <li>Built with UIKit, MVVM, RxSwift and full unit test coverage.</li>
+            <li>Built using UIKit with an MVVM architecture, RxSwift, and full unit test coverage..</li>
             <li>Uses CocoaPods for dependency management and supports CI/CD pipelines.</li>
             <li>Integrated with Atlassian tools for team collaboration and issue tracking.</li>
             <li>Fully supports both light and dark mode, and is optimised for iPad.</li>
