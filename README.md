@@ -114,7 +114,7 @@
          <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
          <ul>
             <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
-            <li>CI/CD is handled through Azure Pipelines for smooth deployments and testing.</li>
+            <li>CI/CD is handled through Azure Pipelines for deployments and testing.</li>
             <li>Manages dependencies with CocoaPods.</li>
             <li>Runs on iPad with a simple, classroom friendly interface.</li>
          </ul>
@@ -139,8 +139,8 @@
          <h1 align="center">StudentKeeper</h1>
          <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
          <ul>
-            <li>Built with UIKit using an MVC architecture and covered by unit tests.</li>
-            <li>CI/CD handled through Azure Pipelines for smooth testing and releases.</li>
+            <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
+            <li>CI/CD is handled through Azure Pipelines for deployments and testing.</li>
             <li>Broadcast extension uses VisionKit to pick up text and stream the screen in real time.</li>
             <li>Runs on iPad with a simple, classroom friendly interface. App available privately.</li>
          </ul>
