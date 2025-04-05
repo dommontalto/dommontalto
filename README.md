@@ -144,19 +144,23 @@
    <tr>
       <td valign="center">
          <h1 align="center">StudentKeeper</h1>
-         <p>StudentKeeper is a Safari extension app that enables screen sharing and activity monitoring in classroom environments.</p>
+         <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
          <ul>
-            <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
-            <li>CI/CD is handled through Azure Pipelines for smooth deployments and testing.</li>
-            <<li>Uses a Safari extension to let teachers remotely open or lock websites, and a Broadcast extension powered by VisionKit to OCR and stream on-screen content from any app.</li>
-            <li>Runs on iPad with a simple, classroom friendly interface.</li>
+            <li>Built with UIKit using an MVC architecture and covered by unit tests.</li>
+            <li>CI/CD handled through Azure Pipelines for smooth testing and releases.</li>
+            <li>Broadcast extension uses VisionKit to pick up text and stream the screen in real time.</li>
+            <li>Runs on iPad with a clean, student friendly interface.</li>
          </ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/Safari%20Extension-00BFFF?style=for-the-badge&logo=xcode&logoColor=white" />
             <img src="https://img.shields.io/badge/Broadcast%20Extension-FF4136?style=for-the-badge&logo=xcode&logoColor=white" />
-            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white />
+            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white />
+            <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white />
+            <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white />
             <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
             <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
          </p>
