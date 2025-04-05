@@ -117,9 +117,13 @@
       <td valign="center">
          <h1 align="center">Impero</h1>
          <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
-         <p>Impero is classroom software that lets teachers open and manage websites on student devices.</p>
-         <p>Built with UIKit and MVC, integrated with Azure and CI/CD pipelines.</p>
-         <p>Available for iPad.</p>
+         <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
+         <ul>
+            <li>Built using UIKit with an MVC architecture, and full unit test coverage..</li>
+            <li>CI/CD is handled through Azure Pipelines for smooth deployments and testing.</li>
+            <li>Manages dependencies with CocoaPods.</li>
+            <li>Runs on iPad with a simple, classroom-friendly interface.</li>
+         </ul>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
