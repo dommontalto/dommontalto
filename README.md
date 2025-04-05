@@ -52,8 +52,8 @@
 <ul>
   <li>Built with async/await and tested to keep things running smoothly.</li>
   <li>MapKit helps users find coworking and coliving spaces nearby.</li>
-  <li>Profile pictures are compressed on upload to keep things fast and lightweight.</li>
-  <li>Uses OSLog and Firebase for logging, crash reporting, and backend support.</li>
+  <li>Profile pictures are compressed on upload, and caching keeps the app lightweight and fast.</li>
+  <li>Firebase powers real-time chat, auth, and backend services.</li>
   <li>Fully supports both light and dark mode.</li>
 </ul>
 <p>
@@ -68,7 +68,6 @@
    <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
    <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
    <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />
-   <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
    <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
    <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
