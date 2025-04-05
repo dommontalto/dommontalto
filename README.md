@@ -51,7 +51,7 @@
 <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
 <ul>
  <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>
-  <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.<li>
+  <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>
   <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>
   <li>Fully supports both light and dark mode.</li>
 </ul>
