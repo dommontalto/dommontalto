@@ -38,40 +38,40 @@
    <img alt="github-snake" src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
 </picture>
 <br><br>
-<table border="0" cellspacing="0" cellpadding="0">
-   <tr>
-      <td align="center" width="300" valign="top">
-         <img src="gifs/nomadifyGif.gif" alt="Nomadify Demo" width="300" />
-      </td>
-      <td valign="center">
-         <h1 align="center">Nomadify</h1>
-         <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
-         <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
-         <ul>
-            <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>
-            <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>
-            <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>
-            <li>Fully supports both light and dark mode.</li>
-         </ul>
-         <p>
-            <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
-            <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />
-            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
-            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
-            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
-            <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />
-            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
-            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-         </p>
-      </td>
-   </tr>
-</table>
+<!--<table border="0" cellspacing="0" cellpadding="0">-->
+<!--   <tr>-->
+<!--      <td align="center" width="300" valign="top">-->
+<!--         <img src="gifs/nomadifyGif.gif" alt="Nomadify Demo" width="300" />-->
+<!--      </td>-->
+<!--      <td valign="center">-->
+<!--         <h1 align="center">Nomadify</h1>-->
+<!--         <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>-->
+<!--         <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>-->
+<!--         <ul>-->
+<!--            <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>-->
+<!--            <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>-->
+<!--            <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>-->
+<!--            <li>Fully supports both light and dark mode.</li>-->
+<!--         </ul>-->
+<!--         <p>-->
+<!--            <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />-->
+<!--         </p>-->
+<!--      </td>-->
+<!--   </tr>-->
+<!--</table>-->
 <br><br>
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
