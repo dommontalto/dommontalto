@@ -22,6 +22,7 @@
 ![SOLID](https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Caching](https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white)
 ![Compression](https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white)
+![Pagination](https://img.shields.io/badge/Pagination-007BFF?style=for-the-badge&logo=databricks&logoColor=white)
 ![OSLog](https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white)
 ![SPM](https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
@@ -41,11 +42,7 @@
 <!--<table border="0" cellspacing="0" cellpadding="0">-->
 <!--   <tr>-->
 <!--      <td align="center" width="300" valign="top">-->
-<!--<picture>-->
-<!--  <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />-->
-<!--  <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />-->
-<!--  <img src="banners/banner-light.gif" alt="Project banner" width="300" />-->
-<!--</picture>-->
+<!--      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />-->
 <!--         <img src="gifs/nomadifyGif.gif" alt="Nomadify Demo" width="300" />-->
 <!--      </td>-->
 <!--      <td valign="center">-->
@@ -81,7 +78,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
+         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
          <h1 align="center">Hx</h1>
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
@@ -115,6 +112,7 @@
          <img src="gifs/imperoGif.gif" alt="Impero Demo" width="300" />
       </td>
       <td valign="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
@@ -147,6 +145,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
