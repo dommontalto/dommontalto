@@ -76,7 +76,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
-         <img src="banner/banner-dark.png" alt="" width="300" />
+         <img src="banners/banner-dark.png" alt="" width="300" />
          <h1 align="center">Hx</h1>
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
