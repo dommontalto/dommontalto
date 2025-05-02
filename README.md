@@ -41,6 +41,11 @@
 <!--<table border="0" cellspacing="0" cellpadding="0">-->
 <!--   <tr>-->
 <!--      <td align="center" width="300" valign="top">-->
+<!--<picture>-->
+<!--  <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />-->
+<!--  <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />-->
+<!--  <img src="banners/banner-light.gif" alt="Project banner" width="300" />-->
+<!--</picture>-->
 <!--         <img src="gifs/nomadifyGif.gif" alt="Nomadify Demo" width="300" />-->
 <!--      </td>-->
 <!--      <td valign="center">-->
@@ -76,7 +81,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
-         <img src="banners/banner-dark.gif" alt="" width="300" />
+         <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
+  <img src="banners/banner-light.gif" alt="Project banner" width="300" />
+</picture>
          <h1 align="center">Hx</h1>
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
@@ -110,6 +119,11 @@
          <img src="gifs/imperoGif.gif" alt="Impero Demo" width="300" />
       </td>
       <td valign="center">
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
+  <img src="banners/banner-light.gif" alt="Project banner" width="300" />
+</picture>
          <h1 align="center">Impero</h1>
          <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
@@ -137,6 +151,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
+  <img src="banners/banner-light.gif" alt="Project banner" width="300" />
+</picture>
          <h1 align="center">StudentKeeper</h1>
          <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
          <ul>
