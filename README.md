@@ -82,11 +82,8 @@
    <tr>
       <td valign="center">
 <picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" width="300" />
-  <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" width="300" />
-  <img src="banners/banner-light.gif" alt="Banner" width="300" />
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/main/banners/banner-dark.gif" width="300" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/main/banners/banner-light.gif" width="300" />
 </picture>
          <h1 align="center">Hx</h1>
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
