@@ -67,6 +67,7 @@
 <!--            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />-->
 <!--            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />-->
 <!--            <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />-->
+<!--            <img src="https://img.shields.io/badge/Pagination-007BFF?style=for-the-badge&logo=databricks&logoColor=white" />-->
 <!--            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />-->
 <!--            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />-->
 <!--            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />-->
