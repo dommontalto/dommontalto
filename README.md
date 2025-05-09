@@ -151,7 +151,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="center">
-            <p align="center"><img src="apps/studentKeeper-.png" width="100" alt="App Icon" /></p>
+            <p align="center"><img src="apps/studentKeeper.png" width="100" alt="App Icon" /></p>
             <h1 align="center">StudentKeeper</h1>
             <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
             <ul>
