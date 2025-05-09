@@ -112,41 +112,7 @@
     </tr>
 </table>
 <br>
-<br>
-<table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td align="center" width="300" valign="top">
-            <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
-        </td>
-        <td valign="center">
-            <p align="center"><img src="apps/impero.png" width="100" alt="App Icon" /></p>
-            <h1 align="center">Impero</h1>
-            <p align="center">
-                <a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
-            </p>
-            <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
-            <ul>
-                <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
-                <li>CI/CD is handled through Azure Pipelines for deployments and testing.</li>
-                <li>Manages dependencies with CocoaPods.</li>
-                <li>Runs on iPad with a simple, classroom friendly interface.</li>
-            </ul>
-            <p>
-                <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-                <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
-                <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
-                <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
-                <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
-                <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
-                <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
-                <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
-                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-            </p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
-        </td>
-    </tr>
-</table>
-<br>
+
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -182,6 +148,42 @@
         </td>
     </tr>
 </table>
+
+<br>
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="center" width="300" valign="top">
+            <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
+        </td>
+        <td valign="center">
+            <p align="center"><img src="apps/impero.png" width="100" alt="App Icon" /></p>
+            <h1 align="center">Impero</h1>
+            <p align="center">
+                <a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
+            </p>
+            <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
+            <ul>
+                <li>Built using UIKit with an MVC architecture, and full unit test coverage.</li>
+                <li>CI/CD is handled through Azure Pipelines for deployments and testing.</li>
+                <li>Manages dependencies with CocoaPods.</li>
+                <li>Runs on iPad with a simple, classroom friendly interface.</li>
+            </ul>
+            <p>
+                <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+                <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
+                <img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=swift&logoColor=white" />
+                <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+                <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+                <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
+                <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
+                <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+            </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
+        </td>
+    </tr>
+</table>
+<br>
 
 <!-- https://pinetools.com/round-corners-image 204px />-->
 <!-- https://onlinepngtools.com/add-png-border 222px each corner />-->
