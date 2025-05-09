@@ -45,7 +45,7 @@
             <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
         </td>
         <td valign="center">
-            <p align="center"><img src="apps/nomadify.png" width="120" alt="App Icon" /></p>
+            <p align="center"><img src="apps/nomadify.png" width="100" alt="App Icon" /></p>
             <h1 align="center">Nomadify</h1>
             <p align="center">
                 <a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
@@ -81,7 +81,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="center">
-            <p align="center"><img src="apps/hx.png" width="120" alt="App Icon" /></p>
+            <p align="center"><img src="apps/hx.png" width="100" alt="App Icon" /></p>
             <h1 align="center">Hx</h1>
             <p align="center">
                 <a href="https://apps.apple.com/app/hx-2-0-by-aptyx/id6670618478"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
@@ -119,7 +119,7 @@
             <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
         </td>
         <td valign="center">
-            <p align="center"><img src="apps/impero.png" width="120" alt="App Icon" /></p>
+            <p align="center"><img src="apps/impero.png" width="100" alt="App Icon" /></p>
             <h1 align="center">Impero</h1>
             <p align="center">
                 <a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
@@ -151,7 +151,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="center">
-            <p align="center"><img src="apps/studentKeeper.png" width="120" alt="App Icon" /></p>
+            <p align="center"><img src="apps/studentKeeper.png" width="100" alt="App Icon" /></p>
             <h1 align="center">StudentKeeper</h1>
             <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
             <ul>
