@@ -131,6 +131,7 @@
             <li>Manages dependencies with CocoaPods.</li>
             <li>Runs on iPad with a simple, classroom friendly interface.</li>
          </ul>
+         <br><br>
          <p>
             <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
             <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
