@@ -39,17 +39,17 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
 </picture>
 <br>
+
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td align="center" width="300" valign="top">
-            <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
-        </td>
         <td valign="center">
             <p align="center"><img src="apps/nomadify.png" width="100" alt="App Icon" /></p>
             <h1 align="center">Nomadify</h1>
             <p align="center">
-                <a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
+                <a href="https://apps.apple.com/app/nomadify/id6737280397">
+                    <img src="misc/app-store.png" alt="View on App Store" width="100" />
+                </a>
             </p>
             <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
             <ul>
@@ -72,28 +72,32 @@
                 <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
                 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
             </p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
+        </td>
+        <td align="center" width="300" valign="top">
+            <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
         </td>
     </tr>
 </table>
-<br>
-<br>
+
+<br><br>
+
+<!-- HX: GIF Left, Text Right -->
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-
         <td align="center" width="300" valign="top">
             <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
         </td>
-        
-            <td valign="center">
+        <td valign="center">
             <p align="center"><img src="apps/hx.png" width="100" alt="App Icon" /></p>
             <h1 align="center">Hx</h1>
             <p align="center">
-                <a href="https://apps.apple.com/app/hx-2-0-by-aptyx/id6670618478"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a>
+                <a href="https://apps.apple.com/app/hx-2-0-by-aptyx/id6670618478">
+                    <img src="misc/app-store.png" alt="View on App Store" width="100" />
+                </a>
             </p>
             <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
             <ul>
-                <li>Built using UIKit with an MVVM architecture, RxSwift, and full unit test coverage..</li>
+                <li>Built using UIKit with an MVVM architecture, RxSwift, and full unit test coverage.</li>
                 <li>Uses CocoaPods for dependency management and supports CI/CD pipelines.</li>
                 <li>Integrated with Atlassian tools for team collaboration and issue tracking.</li>
                 <li>Fully supports both light and dark mode, and is optimised for iPad.</li>
@@ -109,18 +113,13 @@
                 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
             </p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
     </tr>
 </table>
-<br>
 
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-            <td align="center" width="300" valign="top">
-            <img src="gifs/studentKeeper.gif" alt="StudentKeeper Demo" width="300" />
-        </td>
         <td valign="center">
             <p align="center"><img src="apps/studentKeeper.png" width="100" alt="App Icon" /></p>
             <h1 align="center">StudentKeeper</h1>
@@ -148,7 +147,9 @@
             </p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
-
+        <td align="center" width="300" valign="top">
+            <img src="gifs/studentKeeper.gif" alt="StudentKeeper Demo" width="300" />
+        </td>
     </tr>
 </table>
 
