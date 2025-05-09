@@ -21,7 +21,6 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td align="center" width="300" valign="top">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
             <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
         </td>
         <td valign="center">
@@ -54,6 +53,8 @@
                 <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
                 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
             </p>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
+
         </td>
     </tr>
 </table>
@@ -62,7 +63,6 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
             <p align="center"><img src="apps/hx.png" width="120" alt="App Icon" /></p>
             <h1 align="center">Hx</h1>
             <p align="center">
@@ -86,6 +86,8 @@
                 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
             </p>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
+
         </td>
         <td align="center" width="300" valign="top">
             <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
@@ -100,7 +102,6 @@
             <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
         </td>
         <td valign="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
             <p align="center"><img src="apps/impero.png" width="120" alt="App Icon" /></p>
             <h1 align="center">Impero</h1>
             <p align="center">
@@ -124,10 +125,7 @@
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
             </p>
-                        <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
-                <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
-                <img src="banners/banner-light.gif" alt="Project banner" width="300" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
             </picture>
         </td>
     </tr>
@@ -138,11 +136,6 @@
     <tr>
         <td valign="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="banners/banner-dark.gif" />
-                <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
-                <img src="banners/banner-light.gif" alt="Project banner" width="300" />
-            </picture>
             <p align="center"><img src="apps/studentKeeper.png" width="120" alt="App Icon" /></p>
             <h1 align="center">StudentKeeper</h1>
             <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
