@@ -42,7 +42,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td align="center" width="300" valign="top">
-            <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="350" />
+            <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
         </td>
         <td valign="center">
             <p align="center"><img src="apps/nomadify.png" width="120" alt="App Icon" /></p>
