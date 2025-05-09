@@ -38,9 +38,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
 </picture>
-<br>
 
 <br>
+<br>
+
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="center">
@@ -79,9 +80,8 @@
     </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- HX: GIF Left, Text Right -->
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td align="center" width="300" valign="top">
@@ -118,6 +118,7 @@
 </table>
 
 <br>
+
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="center">
@@ -154,6 +155,7 @@
 </table>
 
 <br>
+
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td align="center" width="300" valign="top">
@@ -187,6 +189,7 @@
         </td>
     </tr>
 </table>
+
 <br>
 
 <!-- https://pinetools.com/round-corners-image 204px />-->
