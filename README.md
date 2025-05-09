@@ -39,50 +39,51 @@
    <img alt="github-snake" src="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake.svg" />
 </picture>
 <br><br>
-<!--<table border="0" cellspacing="0" cellpadding="0">-->
-<!--   <tr>-->
-<!--      <td align="center" width="300" valign="top">-->
-<!--      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />-->
-<!--         <img src="gifs/nomadifyGif.gif" alt="Nomadify Demo" width="300" />-->
-<!--      </td>-->
-<!--      <td valign="center">-->
-<!--         <h1 align="center">Nomadify</h1>-->
-<!--         <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>-->
-<!--         <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>-->
-<!--         <ul>-->
-<!--            <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>-->
-<!--            <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>-->
-<!--            <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>-->
-<!--            <li>Fully supports both light and dark mode.</li>-->
-<!--         </ul>-->
-<!--         <p>-->
-<!--            <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/Pagination-007BFF?style=for-the-badge&logo=databricks&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />-->
-<!--            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />-->
-<!--         </p>-->
-<!--      </td>-->
-<!--   </tr>-->
-<!--</table>-->
+<table border="0" cellspacing="0" cellpadding="0">
+   <tr>
+      <td align="center" width="300" valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
+         <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
+      </td>
+      <td valign="center">
+         <p align="center"><img src="apps/nomadify.png" width="120" alt="App Icon" /></p>
+         <h1 align="center">Nomadify</h1>
+         <p align="center"><a href="https://apps.apple.com/app/nomadify/id6737280397"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
+         <p>Nomadify is a digital companion for remote workers with full group chat functionality, visa info, currency conversion, health advice, and a MapKit powered map for coworking and coliving spaces.</p>
+         <ul>
+            <li>Built using SwiftUI with an MVVM architecture, async/await, and full unit test coverage.</li>
+            <li>Firebase powers group chat, authentication, storage, and backend services, with dependencies managed through Swift Package Manager.</li>
+            <li>Caching keeps the app lightweight and fast, and images are compressed on upload.</li>
+            <li>Fully supports both light and dark mode.</li>
+         </ul>
+         <p>
+            <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
+            <img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Pagination-007BFF?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+         </p>
+      </td>
+   </tr>
+</table>
 <br><br>
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td valign="center">
          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
-         <p align="center"><img src="apps/nomadify-light.png" width="120" alt="App Icon" /></p>
+         <p align="center"><img src="apps/hx.png" width="120" alt="App Icon" /></p>
          <h1 align="center">Hx</h1>
-         <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
+         <p align="center"><a href="https://apps.apple.com/app/hx-2-0-by-aptyx/id6670618478"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
          <ul>
             <li>Built using UIKit with an MVVM architecture, RxSwift, and full unit test coverage..</li>
@@ -103,7 +104,7 @@
          </p>
       </td>
       <td align="center" width="300" valign="top">
-         <img src="gifs/hxGif.gif" alt="Hx Demo" width="300" />
+         <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
       </td>
    </tr>
 </table>
@@ -111,7 +112,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
    <tr>
       <td align="center" width="300" valign="top">
-         <img src="gifs/imperoGif.gif" alt="Impero Demo" width="300" />
+         <img src="gifs/impero.gif" alt="Impero Demo" width="300" />
       </td>
       <td valign="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
@@ -120,6 +121,7 @@
   <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
   <img src="banners/banner-light.gif" alt="Project banner" width="300" />
 </picture>
+         <p align="center"><img src="apps/impero.png" width="120" alt="App Icon" /></p>
          <h1 align="center">Impero</h1>
          <p align="center"><a href="https://apps.apple.com/app/impero-backdrop/id1527399406"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Impero is classroom software that lets teachers open and manage websites on student devices in real time.</p>
@@ -153,6 +155,7 @@
   <source media="(prefers-color-scheme: light)" srcset="banners/banner-light.gif" />
   <img src="banners/banner-light.gif" alt="Project banner" width="300" />
 </picture>
+         <p align="center"><img src="apps/studentKeeper.png" width="120" alt="App Icon" /></p>
          <h1 align="center">StudentKeeper</h1>
          <p>StudentKeeper is a classroom monitoring tool that uses a Safari extension to let teachers open or lock websites on student devices.</p>
          <ul>
@@ -178,7 +181,9 @@
          </p>
       </td>
       <td align="center" width="300" valign="top">
-         <img src="gifs/studentkeeperGif.gif" alt="StudentKeeper Demo" width="300" />
+         <img src="gifs/studentKeeper.gif" alt="StudentKeeper Demo" width="300" />
       </td>
    </tr>
 </table>
+
+<!-- https://pinetools.com/round-corners-image 204px />-->
