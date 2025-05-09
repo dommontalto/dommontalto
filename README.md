@@ -80,7 +80,7 @@
    <tr>
       <td valign="center">
          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
-         <img src="apps/nomadify-light.png" width="120" alt="App Icon" align="center"/>
+         <p align="center"><img src="apps/nomadify-light.png" width="120" alt="App Icon" /> <strong>Hx</strong></p>
          <h1 align="center">Hx</h1>
          <p align="center"><a href="https://apps.apple.com/app/hx-by-aptyx/id1518599162"><img src="misc/app-store.png" alt="View on App Store" width="100" /></a></p>
          <p>Hx is a smart control system built for high-end homes and yachts, letting users control lighting, climate, entertainment, and more from one place.</p>
