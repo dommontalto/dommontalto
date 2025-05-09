@@ -61,8 +61,6 @@
                 <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
                 <img src="https://img.shields.io/badge/SwiftUI-FB8C00?style=for-the-badge&logo=swift&logoColor=white" />
                 <img src="https://img.shields.io/badge/MVVM-6C5CE7?style=for-the-badge&logo=swift&logoColor=white" />
-                <img src="https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white" />
-                <img src="https://img.shields.io/badge/CoreData-8e44ad?style=for-the-badge&logo=swift&logoColor=white" />
                 <img src="https://img.shields.io/badge/Async%2FAwait-FF4500?style=for-the-badge&logo=swift&logoColor=white" />
                 <img src="https://img.shields.io/badge/MapKit-1DA1F2?style=for-the-badge&logo=xcode&logoColor=white" />
                 <img src="https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white" />
