@@ -73,6 +73,7 @@
                 <img src="https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white" />
                 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
             </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
         <td align="center" width="300" valign="top">
             <img src="gifs/nomadify.gif" alt="Nomadify Demo" width="300" />
@@ -113,6 +114,7 @@
                 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
             </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
     </tr>
 </table>
