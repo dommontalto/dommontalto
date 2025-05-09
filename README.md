@@ -80,7 +80,12 @@
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td valign="center">
+
+        <td align="center" width="300" valign="top">
+            <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
+        </td>
+        
+            <td valign="center">
             <p align="center"><img src="apps/hx.png" width="100" alt="App Icon" /></p>
             <h1 align="center">Hx</h1>
             <p align="center">
@@ -106,9 +111,6 @@
             </p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
-        <td align="center" width="300" valign="top">
-            <img src="gifs/hx.gif" alt="Hx Demo" width="300" />
-        </td>
     </tr>
 </table>
 <br>
@@ -116,6 +118,9 @@
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
+            <td align="center" width="300" valign="top">
+            <img src="gifs/studentKeeper.gif" alt="StudentKeeper Demo" width="300" />
+        </td>
         <td valign="center">
             <p align="center"><img src="apps/studentKeeper.png" width="100" alt="App Icon" /></p>
             <h1 align="center">StudentKeeper</h1>
@@ -143,9 +148,7 @@
             </p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
-        <td align="center" width="300" valign="top">
-            <img src="gifs/studentKeeper.gif" alt="StudentKeeper Demo" width="300" />
-        </td>
+
     </tr>
 </table>
 
