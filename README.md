@@ -194,3 +194,7 @@
 
 <!-- https://pinetools.com/round-corners-image 204px />-->
 <!-- https://onlinepngtools.com/add-png-border 222px each corner />-->
+<!-- brew install ffmpeg />-->
+<!-- ffmpeg -i input.mp4 -vf "fps=20,scale=600:1300:flags=lanczos" -c:v gif output.gif  />-->
+
+
