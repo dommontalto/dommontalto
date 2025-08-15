@@ -20,6 +20,7 @@
 ![Broadcast Extension](https://img.shields.io/badge/Broadcast%20Extension-FF4136?style=for-the-badge&logo=xcode&logoColor=white)
 ![XCTests](https://img.shields.io/badge/XCTests-2ECC71?style=for-the-badge&logo=xcode&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-00BFFF?style=for-the-badge&logo=xcode&logoColor=white)
 ![Caching](https://img.shields.io/badge/Caching-27AE60?style=for-the-badge&logo=databricks&logoColor=white)
 ![Compression](https://img.shields.io/badge/Compression-16A085?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pagination](https://img.shields.io/badge/Pagination-007BFF?style=for-the-badge&logo=databricks&logoColor=white)
