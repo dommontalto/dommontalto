@@ -153,6 +153,7 @@
                 <img src="https://img.shields.io/badge/TestFlight-00BFFF?style=for-the-badge&logo=xcode&logoColor=white" />
                 <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
                 <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
+                <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -194,6 +195,7 @@
                 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
                 <img src="https://img.shields.io/badge/TestFlight-00BFFF?style=for-the-badge&logo=xcode&logoColor=white" />
                 <img src="https://img.shields.io/badge/OSLog-34495E?style=for-the-badge&logo=databricks&logoColor=white" />
+                <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
