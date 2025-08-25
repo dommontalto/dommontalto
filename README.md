@@ -28,19 +28,14 @@
 ![SPM](https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF9800?style=for-the-badge&logo=Firebase&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-3B3B98?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6E6E6E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dommontalto/dommontalto/output/github-snake-dark.svg" />
@@ -124,6 +119,8 @@
                 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
                 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+                <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
             </p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
         </td>
@@ -158,6 +155,7 @@
                 <img src="https://img.shields.io/badge/SPM-%23FA7343?style=for-the-badge&logo=databricks&logoColor=white" />
                 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
                 <img src="https://img.shields.io/badge/CI/CD-9B59B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
                 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
             </p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="300" height="1" alt="" />
