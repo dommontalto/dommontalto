@@ -1,7 +1,7 @@
 <img src="banners/banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hi there, I'm Dom Montalto, an iOS Developer 👋🏼
- 📍 Sydney, Australia <br>👨🏽‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>✉️ How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
+ 👨🏽‍💻 Coding professionally since 2018 <br>🎓 First Class Honours in Software Engineering <br>✉️ How to reach me: [dommontalto@icloud.com](mailto:dommontalto@icloud.com)
 
 # 💻 iOS Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
